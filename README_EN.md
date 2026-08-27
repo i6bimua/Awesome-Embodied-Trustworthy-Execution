@@ -8,6 +8,11 @@
 ![PRs welcome](https://img.shields.io/badge/PRs-Welcome-16a34a?style=flat-square)
 **A curated research map for security, reliability, and decision assurance in embodied AI.**
 `Trust` · `Detect` · `Verify` · `Mitigate` · `Recover`
+
+## 👥 Authors
+
+[Zihao Zheng (郑子豪)](https://github.com/zhengzihaoPKU) · [Hangyu Cao (曹航语)](https://github.com/i6bimua) · [Zhihao Mao (毛郅皓)](https://github.com/lusunn111)
+
 > [!NOTE]
 > **The organizing principle is the source of non-trustworthiness.** Attack surfaces, evaluation methods, training strategies, and runtime mechanisms are not mixed at the same level. This keeps malicious attacks, software/hardware errors, and model-originated decision anomalies tied to distinct research questions.
 
