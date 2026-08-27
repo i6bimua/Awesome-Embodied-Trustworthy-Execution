@@ -800,8 +800,6 @@ Awesome-Embodied-Trustworthy-Execution/
 ├── data/
 │   ├── papers_detailed.csv   # problem / idea / significance
 │   └── paper_links_full.csv  # primary and supplementary paper links
-├── scripts/
-│   └── extract_figure1.py
 └── .github/ISSUE_TEMPLATE/
     └── paper_addition.md
 ```
