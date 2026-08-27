@@ -1,0 +1,44 @@
+﻿编号,论文,arXiv,一级目录,二级方向,摘要页,PDF直链
+1,"Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses",2605.02900,00_总览框架,全景综述,https://arxiv.org/abs/2605.02900,https://arxiv.org/pdf/2605.02900.pdf
+2,Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation,2606.05660,00_总览框架,长时程跨层安全,https://arxiv.org/abs/2606.05660,https://arxiv.org/pdf/2606.05660.pdf
+3,"What Breaks Embodied AI Security: LLM Vulnerabilities, CPS Flaws, or Something Else?",2602.17345,00_总览框架,闭环系统失配,https://arxiv.org/abs/2602.17345,https://arxiv.org/pdf/2602.17345.pdf
+4,JailWAM: Jailbreaking World Action Models in Robot Control,2604.05498,01_恶意攻击防御,指令越狱_WAM,https://arxiv.org/abs/2604.05498,https://arxiv.org/pdf/2604.05498.pdf
+5,BadWAM: When World-Action Models Dream Right but Act Wrong,2607.15207,01_恶意攻击防御,WAM想象动作完整性攻击,https://arxiv.org/abs/2607.15207,https://arxiv.org/pdf/2607.15207.pdf
+6,Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models,2606.22966,01_恶意攻击防御,世界模型完整性攻击,https://arxiv.org/abs/2606.22966,https://arxiv.org/pdf/2606.22966.pdf
+7,When to Trust Imagination: Adaptive Action Execution for World Action Models,2605.06222,03_黑盒决策异常与保障,想象现实一致性验证,https://arxiv.org/abs/2605.06222,https://arxiv.org/pdf/2605.06222.pdf
+8,Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models,2604.01618,01_恶意攻击防御,物理视觉攻击,https://arxiv.org/abs/2604.01618,https://arxiv.org/pdf/2604.01618.pdf
+9,TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches,2603.23117,01_恶意攻击防御,物理补丁_CoT劫持,https://arxiv.org/abs/2603.23117,https://arxiv.org/pdf/2603.23117.pdf
+10,VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking,2605.28083,01_恶意攻击防御,本体感知劫持,https://arxiv.org/abs/2605.28083,https://arxiv.org/pdf/2605.28083.pdf
+11,FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models,2509.19870,01_恶意攻击防御,冻结攻击,https://arxiv.org/abs/2509.19870,https://arxiv.org/pdf/2509.19870.pdf
+12,When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models,2511.16203,01_恶意攻击防御,多模态对抗错配,https://arxiv.org/abs/2511.16203,https://arxiv.org/pdf/2511.16203.pdf
+13,Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics,2411.13587,01_恶意攻击防御,动作空间对抗,https://arxiv.org/abs/2411.13587,https://arxiv.org/pdf/2411.13587.pdf
+14,AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation,2607.11063,01_恶意攻击防御,黑盒对抗攻击,https://arxiv.org/abs/2607.11063,https://arxiv.org/pdf/2607.11063.pdf
+15,Adversarial Attacks on Robotic Vision Language Action Models,2506.03350,01_恶意攻击防御,文本后缀动作劫持,https://arxiv.org/abs/2506.03350,https://arxiv.org/pdf/2506.03350.pdf
+16,Manipulating Multimodal Agents via Cross-Modal Prompt Injection,2504.14348,01_恶意攻击防御,跨模态提示注入,https://arxiv.org/abs/2504.14348,https://arxiv.org/pdf/2504.14348.pdf
+17,Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots,2608.05715,01_恶意攻击防御,物理提示注入,https://arxiv.org/abs/2608.05715,https://arxiv.org/pdf/2608.05715.pdf
+18,ANNIE: Be Careful of Your Robots,2509.03383,01_恶意攻击防御,物理风险基准与攻击,https://arxiv.org/abs/2509.03383,https://arxiv.org/pdf/2509.03383.pdf
+19,RedVLA: Physical Red Teaming for Vision-Language-Action Models,2604.22591,01_恶意攻击防御,物理红队,https://arxiv.org/abs/2604.22591,https://arxiv.org/pdf/2604.22591.pdf
+20,LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models,2510.13626,02_软硬件误差处理,环境传感初态鲁棒性,https://arxiv.org/abs/2510.13626,https://arxiv.org/pdf/2510.13626.pdf
+21,LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models,2606.23686,02_软硬件误差处理,物理语义安全基准,https://arxiv.org/abs/2606.23686,https://arxiv.org/pdf/2606.23686.pdf
+22,ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models,2606.27079,03_黑盒决策异常与保障,多源安全诊断,https://arxiv.org/abs/2606.27079,https://arxiv.org/pdf/2606.27079.pdf
+23,How VLAs Fail Differently: Black-Box Action Monitoring Reveals Architecture-Specific Failure Signatures,2605.28726,03_黑盒决策异常与保障,纯黑盒动作监测,https://arxiv.org/abs/2605.28726,https://arxiv.org/pdf/2605.28726.pdf
+24,When and How Severely: Scenario-Specific Safety Envelopes for Driving VLAs,2606.14238,02_软硬件误差处理,传感扰动安全包络,https://arxiv.org/abs/2606.14238,https://arxiv.org/pdf/2606.14238.pdf
+25,SAFE: Multitask Failure Detection for Vision-Language-Action Models,2506.09937,03_黑盒决策异常与保障,内部特征失效预测,https://arxiv.org/abs/2506.09937,https://arxiv.org/pdf/2506.09937.pdf
+26,Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents,2606.23085,03_黑盒决策异常与保障,世界模型失效预测,https://arxiv.org/abs/2606.23085,https://arxiv.org/pdf/2606.23085.pdf
+27,SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning,2503.03480,03_黑盒决策异常与保障,安全对齐约束RL,https://arxiv.org/abs/2503.03480,https://arxiv.org/pdf/2503.03480.pdf
+28,SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model,2606.20698,03_黑盒决策异常与保障,世界模型安全RL,https://arxiv.org/abs/2606.20698,https://arxiv.org/pdf/2606.20698.pdf
+29,SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving,2605.19524,03_黑盒决策异常与保障,负样本安全对齐,https://arxiv.org/abs/2605.19524,https://arxiv.org/pdf/2605.19524.pdf
+30,SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation,2508.18268,03_黑盒决策异常与保障,测试时动作约束,https://arxiv.org/abs/2508.18268,https://arxiv.org/pdf/2508.18268.pdf
+31,Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching,2607.01378,03_黑盒决策异常与保障,生成期安全约束,https://arxiv.org/abs/2607.01378,https://arxiv.org/pdf/2607.01378.pdf
+32,Safe Vision Language Action Models via Barrier Enhanced Flow Matching,2607.29569,03_黑盒决策异常与保障,屏障函数生成约束,https://arxiv.org/abs/2607.29569,https://arxiv.org/pdf/2607.29569.pdf
+33,ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models,2606.09740,03_黑盒决策异常与保障,检测与恢复,https://arxiv.org/abs/2606.09740,https://arxiv.org/pdf/2606.09740.pdf
+34,Modular Safety Guardrails Are Necessary for Foundation-Model-Enabled Robots in the Real World,2602.04056,03_黑盒决策异常与保障,模块化运行时守卫,https://arxiv.org/abs/2602.04056,https://arxiv.org/pdf/2602.04056.pdf
+35,Verifiable Foundation Models for Robot Safety,2606.23754,03_黑盒决策异常与保障,可验证安全模块,https://arxiv.org/abs/2606.23754,https://arxiv.org/pdf/2606.23754.pdf
+36,LabGuard: Grounding Natural-Language Laboratory Rules into Runtime Guards for Embodied Laboratory Agents,2606.31045,03_黑盒决策异常与保障,规则驱动运行时守卫,https://arxiv.org/abs/2606.31045,https://arxiv.org/pdf/2606.31045.pdf
+37,Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts,2605.22446,03_黑盒决策异常与保障,执行前验证重采样,https://arxiv.org/abs/2605.22446,https://arxiv.org/pdf/2605.22446.pdf
+38,Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered,2510.08464,02_软硬件误差处理,剪枝误差与恢复,https://arxiv.org/abs/2510.08464,https://arxiv.org/pdf/2510.08464.pdf
+S01,Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults,2606.10501,02_软硬件误差处理,关节执行器物理故障,https://arxiv.org/abs/2606.10501,https://arxiv.org/pdf/2606.10501.pdf
+S02,Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control,2605.16056,02_软硬件误差处理,关节退化与故障适应,https://arxiv.org/abs/2605.16056,https://arxiv.org/pdf/2605.16056.pdf
+S03,Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control,2412.01034,02_软硬件误差处理,低比特量化误差,https://arxiv.org/abs/2412.01034,https://arxiv.org/pdf/2412.01034.pdf
+S04,RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models,2506.17639,02_软硬件误差处理,压缩后恢复,https://arxiv.org/abs/2506.17639,https://arxiv.org/pdf/2506.17639.pdf
+S05,SAVE: Software-Implemented Fault Tolerance for Model Inference against GPU Memory Bit Flips,USENIX ATC 2025,02_软硬件误差处理,GPU内存bit flip,https://www.usenix.org/conference/atc25/presentation/zheng,https://www.usenix.org/system/files/atc25-zheng.pdf
