@@ -3,7 +3,7 @@
 
 **A curated research map for security, reliability, and decision assurance in embodied AI.**
 
-`span` · `Detect` · `Verify` · `Mitigate` · `Recover`
+`Trust` · `Detect` · `Verify` · `Mitigate` · `Recover`
 
 ## 👥 Authors
 
