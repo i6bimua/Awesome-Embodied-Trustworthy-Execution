@@ -4,11 +4,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![38 papers](https://img.shields.io/badge/Papers-38-2563eb?style=flat-square) ![VLA WAM VLN](https://img.shields.io/badge/Embodied_AI-VLA%20%7C%20WAM%20%7C%20VLN-0f766e?style=flat-square) ![Trustworthy Execution](https://img.shields.io/badge/Focus-Trustworthy_Execution-b45309?style=flat-square) ![Updated 2026-08-27](https://img.shields.io/badge/Updated-2026--08--27-64748b?style=flat-square) ![PRs welcome](https://img.shields.io/badge/PRs-Welcome-16a34a?style=flat-square)
 
 **A curated research map for security, reliability, and decision assurance in embodied AI.**
+
 `Trust` · `Detect` · `Verify` · `Mitigate` · `Recover`
-
-## 👥 作者
-
-[郑子豪](https://github.com/zhengzihaoPKU) · [曹航语](https://github.com/i6bimua) · [毛郅皓](https://github.com/lusunn111)
 
 > [!NOTE]
 > **核心组织原则：按“非可信从哪里来”分类，而不是把攻击面、评测方法、训练策略和运行时机制混成同一层级。** 这使 malicious attack、soft/hardware error 和 model-originated decision anomaly 三条主线能够清楚对应到不同的研究问题。
@@ -54,7 +51,6 @@
 - [Research Landscape](#research-landscape)
 - [Open Research Gaps](#open-research-gaps)
 - [Contributing](#contributing)
-- [引用](#引用)
 
 ## 🗺️ Research Landscape
 
@@ -786,20 +782,6 @@ SafeContract 只观察 action output，计算 reversal、jerk、momentum coheren
 
 欢迎 PR / Issue 补充新论文、代码、项目主页或更合适的代表图。新增论文建议至少说明：**非可信来源、攻击/故障位置、检测信号、干预阶段、是否需要访问模型内部状态**。详细格式见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
 
-## 📝 引用
-
-如果本项目对您的研究有所帮助，请使用以下 BibTeX 条目引用：
-
-```bibtex
-@misc{zheng2026awesomeembodiedtrustworthyexecution,
-  title        = {Awesome Embodied Trustworthy Execution},
-  author       = {Zheng, Zihao and Cao, Hangyu and Mao, Zhihao},
-  year         = {2026},
-  howpublished = {\url{https://github.com/zhengzihaoPKU/Awesome-Embodied-Trustworthy-Execution}},
-  note         = {A curated research map for security, reliability, and decision assurance in embodied AI}
-}
-```
-
 ## 📦 Repository Structure
 
 ```text
@@ -814,6 +796,8 @@ Awesome-Embodied-Trustworthy-Execution/
 ├── data/
 │   ├── papers_detailed.csv   # problem / idea / significance
 │   └── paper_links_full.csv  # primary and supplementary paper links
+├── scripts/
+│   └── extract_figure1.py
 └── .github/ISSUE_TEMPLATE/
     └── paper_addition.md
 ```
