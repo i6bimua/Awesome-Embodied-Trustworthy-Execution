@@ -54,6 +54,7 @@
 - [Research Landscape](#research-landscape)
 - [Open Research Gaps](#open-research-gaps)
 - [Contributing](#contributing)
+- [引用](#引用)
 
 ## 🗺️ Research Landscape
 
@@ -784,6 +785,20 @@ SafeContract 只观察 action output，计算 reversal、jerk、momentum coheren
 ## 🤝 Contributing
 
 欢迎 PR / Issue 补充新论文、代码、项目主页或更合适的代表图。新增论文建议至少说明：**非可信来源、攻击/故障位置、检测信号、干预阶段、是否需要访问模型内部状态**。详细格式见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
+
+## 📝 引用
+
+如果本项目对您的研究有所帮助，请使用以下 BibTeX 条目引用：
+
+```bibtex
+@misc{zheng2026awesomeembodiedtrustworthyexecution,
+  title        = {Awesome Embodied Trustworthy Execution},
+  author       = {Zheng, Zihao and Cao, Hangyu and Mao, Zhihao},
+  year         = {2026},
+  howpublished = {\url{https://github.com/zhengzihaoPKU/Awesome-Embodied-Trustworthy-Execution}},
+  note         = {A curated research map for security, reliability, and decision assurance in embodied AI}
+}
+```
 
 ## 📦 Repository Structure
 

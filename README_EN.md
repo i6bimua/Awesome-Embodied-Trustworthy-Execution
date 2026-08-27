@@ -42,6 +42,7 @@ Unlike conventional digital AI, an embodied model operates inside a **perception
 - [III. Decision anomaly detection and runtime assurance](#iii-decision-anomaly-detection-and-runtime-assurance)
 - [Open research gaps](#open-research-gaps)
 - [Contributing](#contributing)
+- [Citation](#citation)
 
 ## 🔥 Featured papers
 
@@ -132,6 +133,20 @@ The collection is relatively dense in attack security and model-decision assuran
 ## 🤝 Contributing
 
 Pull requests and issues for new papers, code, project pages, or improved representative figures are welcome. A new entry should identify the **source of non-trustworthiness, attack or fault location, detection signal, intervention stage, and required model visibility**. See [CONTRIBUTING.md](CONTRIBUTING.md) for the submission format.
+
+## 📝 Citation
+
+If this project helps your research, please cite it using the following BibTeX entry:
+
+```bibtex
+@misc{zheng2026awesomeembodiedtrustworthyexecution,
+  title        = {Awesome Embodied Trustworthy Execution},
+  author       = {Zheng, Zihao and Cao, Hangyu and Mao, Zhihao},
+  year         = {2026},
+  howpublished = {\url{https://github.com/zhengzihaoPKU/Awesome-Embodied-Trustworthy-Execution}},
+  note         = {A curated research map for security, reliability, and decision assurance in embodied AI}
+}
+```
 
 ## 📦 Repository structure
 
