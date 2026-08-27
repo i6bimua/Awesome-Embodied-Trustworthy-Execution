@@ -7,6 +7,10 @@
 
 `Trust` · `Detect` · `Verify` · `Mitigate` · `Recover`
 
+## 👥 作者
+
+[郑子豪](https://github.com/zhengzihaoPKU) · [曹航语](https://github.com/i6bimua) · [毛郅皓](https://github.com/lusunn111)
+
 > [!NOTE]
 > **核心组织原则：按“非可信从哪里来”分类，而不是把攻击面、评测方法、训练策略和运行时机制混成同一层级。** 这使 malicious attack、soft/hardware error 和 model-originated decision anomaly 三条主线能够清楚对应到不同的研究问题。
 
